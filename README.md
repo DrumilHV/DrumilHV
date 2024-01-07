@@ -64,7 +64,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/DrumilHV/DrumilHV/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
